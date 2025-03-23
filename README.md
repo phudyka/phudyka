@@ -7,8 +7,6 @@
 
 </div>
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 🚀 À propos de moi
 
 Développeur passionné, formé à l'école 42 Nice.
@@ -73,7 +71,7 @@ La pédagogie par projets de l'école 42 m'a permis de développer une forte aut
       <h3 align="center">ft_irc</h3>
       <div align="center">
         <a href="https://github.com/phudyka/ft_irc" target="_blank">
-          <img src="https://raw.githubusercontent.com/phudyka/ft_irc/ft_irc.png" width="100%" alt="IRC Server"/>
+          <img src="https://github.com/phudyka/ft_irc/blob/main//ft_irc.png" width="100%" alt="IRC Server"/>
         </a>
         <p>
           <a href="https://github.com/phudyka/ft_irc" target="_blank">
