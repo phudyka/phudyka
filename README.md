@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello there
 
-<!--
-**phudyka/phudyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi
 
-Here are some ideas to get you started:
+- 🌐 **[Portfolio](https://phudyka.github.io)** - Découvrez mes projets en détail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences techniques
+
+- **Langages :** C, C++, JavaScript, HTML/CSS
+- **Systèmes :** Unix/Linux, Shell scripting
+- **Réseaux :** Protocoles TCP/IP, IRC, client-serveur
+- **Graphisme :** Moteurs de rendu, Raycasting
+- **Outils :** Git, Docker, Make
+
+## 🛠️ Projets notables
+
+- **[Transcendence](https://github.com/phudyka/ft_transcendence)** - Application web de jeu Pong multijoueur avec chat en temps réel
+- **[ft_irc](https://github.com/phudyka/ft_irc)** - Serveur IRC complet conforme au RFC 1459
+- **[Cub3D](https://github.com/phudyka/cub3d)** - Moteur de raycasting 3D avec fonctionnalités de jeu (armes, portes, cibles)
+- **[Minishell](https://github.com/phudyka/minishell)** - Shell Unix simplifié avec gestion des pipes et redirections
+- **[Camagru](https://github.com/phudyka/camagru)** - Application web de retouche photo avec filtres en temps réel
+- **[Dumbnail](https://github.com/phudyka/dumbnail)** - Outil de prévisualisation de miniatures YouTube pour créateurs de contenu
+
+## 🔗 Liens
+
+- 📫 **[Email](mailto:paul.hudyka@gmail.com)** - N'hésitez pas à me contacter
+---
