@@ -77,7 +77,7 @@ La pédagogie par projets de l'école 42 m'a permis de développer une forte aut
         </a>
         <p>
           <a href="https://github.com/phudyka/ft_irc" target="_blank">
-            <img src="https://github.com/phudyka/ft_irc/blob/main/ft_irc.png" alt="GitHub Badge"/>
+            <img src="https://img.shields.io/badge/Code-GitHub-2ea44f?style=for-the-badge&logo=github" alt="GitHub Badge"/>
           </a>
         </p>
         <p align="justify">Serveur IRC complet conforme au RFC 1459, avec gestion des canaux, des utilisateurs et des opérateurs.</p>
