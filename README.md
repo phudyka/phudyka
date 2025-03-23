@@ -5,11 +5,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-phudyka.github.io-0A66C2?style=for-the-badge&logo=GitHub&logoColor=white)](https://phudyka.github.io)
 [![Email](https://img.shields.io/badge/Email-paul.hudyka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.hudyka@gmail.com)
 
-</div>
-
 ## 🚀 À propos de moi
 
 Développeur passionné, formé à l'école 42 Nice.
+
+</div>
 
 <details>
 <summary><b>🎓 Mon parcours à l'école 42</b></summary>
