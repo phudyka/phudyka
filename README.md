@@ -6,11 +6,10 @@
 
 ## 💻 Compétences techniques
 
-- **Langages :** C, C++, JavaScript, HTML/CSS
-- **Systèmes :** Unix/Linux, Shell scripting
+- **Langages :** C, C++, JavaScript, Typescript, PHP, HTML/CSS
+- **Frameworks :** Django, Bootstrap, ThreeJS, React, Next.js, Tailwind.css
 - **Réseaux :** Protocoles TCP/IP, IRC, client-serveur
-- **Graphisme :** Moteurs de rendu, Raycasting
-- **Outils :** Git, Docker, Make
+- **Outils :** Git, Docker, PostgreSQL, Wordpress, Prisma, VirtualBox, Blender
 
 ## 🛠️ Projets notables
 
