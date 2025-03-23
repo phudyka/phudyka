@@ -4,7 +4,7 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-phudyka.github.io-0A66C2?style=for-the-badge&logo=GitHub&logoColor=white)](https://phudyka.github.io)
 [![Email](https://img.shields.io/badge/Email-paul.hudyka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.hudyka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paul-hudyka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-hudyka)
 
 </div>
 
