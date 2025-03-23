@@ -4,7 +4,6 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-phudyka.github.io-0A66C2?style=for-the-badge&logo=GitHub&logoColor=white)](https://phudyka.github.io)
 [![Email](https://img.shields.io/badge/Email-paul.hudyka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.hudyka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-hudyka)
 
 </div>
 
@@ -12,7 +11,7 @@
 
 ## 🚀 À propos de moi
 
-Développeur passionné, formé à l'école 42, je crée des applications qui allient performance technique et expérience utilisateur intuitive. Mon approche combinant rigueur algorithmique et créativité me permet de résoudre des problèmes complexes avec des solutions élégantes.
+Développeur passionné, formé à l'école 42 Nice.
 
 <details>
 <summary><b>🎓 Mon parcours à l'école 42</b></summary>
@@ -59,7 +58,7 @@ La pédagogie par projets de l'école 42 m'a permis de développer une forte aut
       <h3 align="center">ft_transcendence</h3>
       <div align="center">
         <a href="https://github.com/phudyka/ft_transcendence" target="_blank">
-          <img src="https://raw.githubusercontent.com/phudyka/ft_transcendence/ft_transcendence.png" width="100%" alt="Transcendence Project"/>
+          <img src="https://github.com/phudyka/ft_transcendence/blob/main/ft_transcendence.png" width="100%" alt="Transcendence Project"/>
         </a>
         <p>
           <a href="https://github.com/phudyka/ft_transcendence" target="_blank">
@@ -132,7 +131,6 @@ La pédagogie par projets de l'école 42 m'a permis de développer une forte aut
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phudyka&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phudyka&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </div>
 
