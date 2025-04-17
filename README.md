@@ -1,24 +1,3 @@
-# <div align="center">👋 Hello there, I'm Paul</div>
-
-<div align="center">
-Développeur Full-Stack, formé à l'école 42 Nice.
-</div>
-
-## 🚀 À propos de moi
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-phudyka.github.io-0A66C2?style=for-the-badge&logo=GitHub&logoColor=white)](https://phudyka.github.io)
-[![Email](https://img.shields.io/badge/Email-paul.hudyka@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.hudyka@gmail.com)
-
-</div>
-
-<details>
-<summary><b>🎓 Mon parcours à l'école 42</b></summary>
-<br>
-La pédagogie par projets de l'école 42 m'a permis de développer une forte autonomie et une capacité d'adaptation exceptionnelle. Chaque défi relevé m'a appris à aborder différemment les problèmes informatiques, en privilégiant toujours l'efficacité et la maintenabilité du code.
-</details>
-
 ## 💻 Stack Technique
 
 <div align="center">
@@ -125,19 +104,5 @@ La pédagogie par projets de l'école 42 m'a permis de développer une forte aut
   
 [![Camagru](https://img.shields.io/badge/Camagru-App_de_retouche_photo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/phudyka/camagru)
 [![Dumbnail](https://img.shields.io/badge/Dumbnail-Prévisualiseur_de_miniatures_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/phudyka/dumbnail)
-
-</div>
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phudyka&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  
----
-
-[![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=phudyka.phudyka)](https://github.com/phudyka)
 
 </div>
