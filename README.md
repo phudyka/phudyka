@@ -1,5 +1,3 @@
-## 💻 Stack Technique
-
 <div align="center">
   
 ### Languages
@@ -28,8 +26,6 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
-
-## 🛠️ Projets Phares
 
 <table>
   <tr>
@@ -99,8 +95,6 @@
 </table>
 
 <div align="center">
-  
-### Autres projets
   
 [![Camagru](https://img.shields.io/badge/Camagru-App_de_retouche_photo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/phudyka/camagru)
 [![Dumbnail](https://img.shields.io/badge/Dumbnail-Prévisualiseur_de_miniatures_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/phudyka/dumbnail)
