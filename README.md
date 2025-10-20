@@ -33,7 +33,7 @@
 ### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,wordpress,blender,unreal,vscode,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,wordpress,blender,unreal,vscode,vim,powershell&theme=dark" />
   </a>
 </p>
 
