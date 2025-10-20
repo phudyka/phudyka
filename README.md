@@ -5,41 +5,36 @@
 ### Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,php,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,php,html,css,bash&theme=dark" />
   </a>
 </p>
 
 ### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind,bootstrap,threejs,blender&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind,bootstrap,threejs&theme=dark" />
   </a>
 </p>
 
 ### Backend & Database
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,postgres,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,prisma,sqlite,rabbitmq,redis,firebase&theme=dark" />
   </a>
 </p>
 
 ### DevOps & Cloud
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,gitlab,vercel,gcp,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,gitlab,npm,ansible,vercel,gcp,grafana,prometheus&theme=dark" />
   </a>
 </p>
 
-### Tools & Security
+### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,windows&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,wordpress,blender,unreal,vscode,vim&theme=dark" />
   </a>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 </p>
 
 ---
