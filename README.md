@@ -131,13 +131,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/phudyka/camagru">
-    <img src="https://img.shields.io/badge/📸_Camagru-Photo_Editor-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/phudyka/dumbnail">
-    <img src="https://img.shields.io/badge/🎬_Dumbnail-YouTube_Previewer-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
 </div>
