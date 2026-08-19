@@ -2,8 +2,7 @@
 
 # Paul Hudyka
 
-**Agents IA sur-mesure & logiciel métier** La Colle-sur-Loup, Alpes-Maritimes —
-entrepreneur individuel
+**Agents IA sur-mesure & logiciel métier**
 
 <p align="center">
   <a href="https://phudyka.github.io">
@@ -19,13 +18,13 @@ entrepreneur individuel
 
 ---
 
-# 🧭 Ce que je construis
+# A Propos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Halfred — prestation
+### 🤖 Halfred — Local AI Agents
 
 Conception et déploiement d’agents IA sur-mesure : rédaction assistée,
 automatisation de tâches métier, exploitation des données de l’entreprise.
@@ -49,7 +48,7 @@ Premier client livré : **ETS Maria**, pisciniste niçois en activité depuis 1
 </td>
 <td width="50%" valign="top">
 
-### 🏊 PoolCenter — produit
+### 🏊 PoolCenter — Saas B2B Piscinistes
 
 Application métier de gestion d’interventions pour les professionnels de
 l’entretien de piscines : planning, saisie terrain, alertes sanitaires, rapports
